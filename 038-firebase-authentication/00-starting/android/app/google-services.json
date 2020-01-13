@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "25550239476",
+    "firebase_url": "https://family-car-share.firebaseio.com",
+    "project_id": "family-car-share",
+    "storage_bucket": "family-car-share.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:25550239476:android:b3c62c2c7061e93ed2d0a1",
+        "android_client_info": {
+          "package_name": "me.justinbrown.familycarshare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "25550239476-hn1jlomktstl7c5hkmv0t028sgga0fve.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "me.justinbrown.familycarshare",
+            "certificate_hash": "01668eebe4e90d2c778cee32290b5754e9dabd27"
+          }
+        },
+        {
+          "client_id": "25550239476-3jse1avn4g8tkf9s6ninic4ika98vdhc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYYoF1yCLYKGmgBbwrUgrVqFvKA9_zqIM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "25550239476-bnff1cj0ip3o1lg0lmn9369qe1ufc1uf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "25550239476-28dthmp06q59rltms2cv3crjj6o0htap.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "me.justinbrown.familycarshare"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

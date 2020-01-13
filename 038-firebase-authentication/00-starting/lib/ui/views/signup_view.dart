@@ -48,7 +48,10 @@ class SignUpView extends StatelessWidget {
                   BusyButton(
                     title: 'Sign Up',
                     onPressed: () {
-                      // TODO: Perform firebase login here
+                      model.signUp(
+                        email: emailController.text,
+                        password: passwordController.text,
+                      );
                     },
                   )
                 ],
